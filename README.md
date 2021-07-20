@@ -15,7 +15,7 @@ With Magento 2 Google reCAPTCHAs, you can display Checkbox reCAPTCHA V2 or Invis
 * Support normal and compact reCAPTCHA size
 * Ability to define the reCAPTCHA v2 label. Eg: Human Verification
 * Support left, right, inline position for invisible reCAPTCHA type
-* Ability to configure each function of the extension from the backend
+* Ability to configure each functionality of the extension from the backend
 * Mobile-friendly
 * Support multiple-stores
 

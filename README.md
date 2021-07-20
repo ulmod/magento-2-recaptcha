@@ -1,6 +1,6 @@
 # Magento 2 Google Checkbox & Invisible reCAPTCHA  Extension
 
-[Magento 2 Google reCAPTCHA](https://www.ulmod.com/magento-2-recaptcha-extension.html)  is a Magento 2 extension that allows you to protect your website from spam entries.
+[Magento 2 Google reCAPTCHA](https://www.ulmod.com/magento-2-recaptcha-extension.html)  is a Magento 2 extension that allows you to protect your forms from spam/bots entries.
 
 With Magento 2 Google reCAPTCHAs, you can display Checkbox reCAPTCHA V2 or Invisible reCAPTCHA v2 in up to sevens forms of your site, making sure you receive only entries from real people.
 
